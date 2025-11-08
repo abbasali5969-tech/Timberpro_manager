@@ -1,4 +1,3 @@
-
 name: Build Flutter Debug APK
 
 on:
@@ -35,3 +34,4 @@ jobs:
         with:
           name: timberpro-debug-apk
           path: build/app/outputs/flutter-apk/app-debug.apk
+          Fix workflow file
